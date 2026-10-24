@@ -1,0 +1,86 @@
+.github/workflows/deploy.yml
+  h_557c0f9a241549 1-63
+.gitignore
+  h_557c0f9a241549 1-13
+README.md
+  h_557c0f9a241549 1-54
+package-lock.json
+  h_557c0f9a241549 1-8952
+package.json
+  h_557c0f9a241549 1-19
+src/.vuepress/config.ts
+  h_557c0f9a241549 1-18
+src/.vuepress/navbar.ts
+  h_557c0f9a241549 1-11
+src/.vuepress/public/assets/bg/6-dark.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/bg/6-light.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/image/advanced.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/image/blog.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/image/box.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/image/features.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/image/github-dark.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/image/github-light.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/image/layout.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/assets/image/markdown.svg
+  h_557c0f9a241549 1
+src/.vuepress/public/logo.svg
+  h_557c0f9a241549 1
+src/.vuepress/sidebar.ts
+  h_557c0f9a241549 1-13
+src/.vuepress/styles/config.scss
+  h_557c0f9a241549 1-3
+src/.vuepress/styles/index.scss
+  h_557c0f9a241549 1
+src/.vuepress/styles/palette.scss
+  h_557c0f9a241549 1-4
+src/.vuepress/theme.ts
+  h_557c0f9a241549 1-182
+src/README.md
+  h_557c0f9a241549 1-58
+src/md/dev-log/README.md
+  h_557c0f9a241549 1-11
+src/md/dev-log/day01.md
+  h_557c0f9a241549 1-109
+src/md/dev-log/day02.md
+  h_557c0f9a241549 1-54
+src/md/dev-log/day03.md
+  h_557c0f9a241549 1-65
+src/md/dev-log/day04.md
+  h_557c0f9a241549 1-43
+src/md/dev-log/day05.md
+  h_557c0f9a241549 1-77
+src/md/dev-log/day06.md
+  h_557c0f9a241549 1-68
+src/md/dev-log/day07~day08.md
+  h_557c0f9a241549 1-47
+src/md/dev-log/day09~day10.md
+  h_557c0f9a241549 1-35
+src/md/dev-log/day11.md
+  h_557c0f9a241549 1-18
+src/md/dev-log/day12.md
+  h_557c0f9a241549 1-49
+src/md/resume.md
+  h_557c0f9a241549 1-100
+src/slides.md
+  h_557c0f9a241549 1-429
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c3b6888fcaee3f7df81eac6bb617cfcb4e0991b0",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
