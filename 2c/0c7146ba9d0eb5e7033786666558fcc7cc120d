@@ -1,0 +1,18 @@
+src/README.md
+  h_557c0f9a241549 54,56-58
+src/md/dev-log/ai-workflow-native-vs-classic.md
+  h_557c0f9a241549 1-234
+src/md/dev-log/vibe-coding-comet-mvp.md
+  h_557c0f9a241549 1-818
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2c0c7146ba9d0eb5e7033786666558fcc7cc120d",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
