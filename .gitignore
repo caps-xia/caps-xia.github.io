@@ -1,0 +1,13 @@
+# 依赖
+node_modules/
+
+# 构建产物与缓存
+src/.vuepress/dist/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+
+# 自建服务器部署相关（含 SSL 私钥，严禁上传到公开仓库）
+dev-ops/
+
+# 系统文件
+.DS_Store
