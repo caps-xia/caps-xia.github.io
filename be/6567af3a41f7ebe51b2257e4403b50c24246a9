@@ -1,0 +1,20 @@
+.idea/caps-dev-tech-blog.iml
+  h_557c0f9a241549 1-9
+.idea/misc.xml
+  h_557c0f9a241549 37-39
+.idea/modules.xml
+  h_557c0f9a241549 1-8
+.idea/vcs.xml
+  h_557c0f9a241549 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "be6567af3a41f7ebe51b2257e4403b50c24246a9",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
