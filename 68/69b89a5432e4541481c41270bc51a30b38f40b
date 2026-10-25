@@ -1,0 +1,16 @@
+src/.vuepress/sidebar.ts
+  h_557c0f9a241549 20
+src/md/backend/columbo-ai-troubleshooter.md
+  h_557c0f9a241549 2,15,27,33,57,87,98,133,137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6869b89a5432e4541481c41270bc51a30b38f40b",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
