@@ -1,0 +1,24 @@
+.idea/.gitignore
+  h_557c0f9a241549 1-10
+.idea/misc.xml
+  h_557c0f9a241549 1-37
+src/.vuepress/config.ts
+  h_557c0f9a241549 14-15
+src/.vuepress/theme.ts
+  h_557c0f9a241549 8,12,21,31
+src/README.md
+  h_557c0f9a241549 54-59,65,67,69-70
+src/md/resume.md
+  h_557c0f9a241549 4,6,9,11-13,15-17,19-22,24,28-42,46-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b25765afd806af0e448b6633693f61ed792a06b6",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
