@@ -1,0 +1,18 @@
+src/.vuepress/sidebar.ts
+  h_557c0f9a241549 30
+src/README.md
+  h_557c0f9a241549 54,56-58,67
+src/md/backend/tars-ai-troubleshooter.md
+  h_557c0f9a241549 1-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "54a7db2ff4807cd017bf775655bac143e68b5b52",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
