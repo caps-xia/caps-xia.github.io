@@ -1,0 +1,14 @@
+src/.vuepress/navbar.ts
+  h_557c0f9a241549 7-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9e8fe9bd1fcd043008e1bffee2be9ed766dc53d5",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
