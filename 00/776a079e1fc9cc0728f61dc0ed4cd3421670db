@@ -1,0 +1,28 @@
+src/.vuepress/sidebar.ts
+  h_557c0f9a241549 7-9,11-14
+src/README.md
+  h_557c0f9a241549 54-58,71
+src/md/ai-engineering/adk-java-contribution-story.md
+  h_557c0f9a241549 1-88
+src/md/ai-engineering/ai-workflow-native-vs-classic.md
+  h_557c0f9a241549 6
+src/md/ai-engineering/index.md
+  h_557c0f9a241549 1-6
+src/md/ai-engineering/reasoning-loop-guards.md
+  h_557c0f9a241549 1-92
+src/md/ai-engineering/stream-cancellation.md
+  h_557c0f9a241549 1-90
+src/md/ai-engineering/vibe-coding-comet-mvp.md
+  h_557c0f9a241549 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "00776a079e1fc9cc0728f61dc0ed4cd3421670db",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
