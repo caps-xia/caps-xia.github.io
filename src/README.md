@@ -31,7 +31,7 @@ highlights:
 
       - title: 流式回复标点启发式误判
         icon: language
-        details: 中文回复以。！？结尾被判为未完成，永不落会话。官方复现确认；流完成信号替代启发式的修复 PR 评审中。
+        details: 中文回复以。！？结尾被判为未完成，永不落会话。官方采纳本人方案修复落地，本人以生产复现验证后关闭。
         link: https://github.com/google/adk-java/issues/1608
 
       - title: reasoning_content 被静默丢弃
