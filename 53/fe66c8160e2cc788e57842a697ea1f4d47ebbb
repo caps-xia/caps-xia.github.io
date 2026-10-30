@@ -1,0 +1,16 @@
+src/README.md
+  h_557c0f9a241549 34
+src/md/ai-engineering/adk-java-contribution-story.md
+  h_557c0f9a241549 82,85-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "53fe66c8160e2cc788e57842a697ea1f4d47ebbb",
+  "prompts": {},
+  "humans": {
+    "h_557c0f9a241549": {
+      "author": "jixing.xia <caps_xia@163.com>"
+    }
+  }
+}
